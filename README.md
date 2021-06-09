@@ -1,4 +1,4 @@
-# Practico_fechas_avanzado
+# Practico fechas avanzado
 5 ejercicios con algunos ejemplos màs complejos.
 1. Hacer una función que reciba dos fechas y retorne la cantidad de días que hay entre ellas aclarando y “faltan” esos días o ya “pasaron”.
 2. Hacer una función que reciba una fecha y un número n (pude ser negativo). La función deberá calcular la nueva fecha. Corresponderá a una fecha posterior si n es positivo, y a una fecha anterior si es negativo.
